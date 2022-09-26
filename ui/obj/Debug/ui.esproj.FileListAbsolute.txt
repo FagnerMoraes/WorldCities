@@ -1,0 +1,2 @@
+C:\dev\AngularDotnetProjects\WorldCities\ui\obj\Debug\ui.esproj.SuggestedBindingRedirects.cache
+C:\dev\AngularDotnetProjects\WorldCities\ui\obj\Debug\ui.esproj.CoreCompileInputs.cache
