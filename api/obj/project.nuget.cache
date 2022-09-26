@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GdSB0oYyk7ZkHNF/lcJ2XMn0uizc37jQTVgBGGdDB//fSajGi55ObOdpD3FEmYMejdZ9eeT2b40gfzxxgum0Wg==",
+  "dgSpecHash": "Ihxw7zooLRNjekJtu7KOwAdlHL/0S6w8j66zGHr/0BoH5AOh4R9FzhVRPlb++8cdq7Mz/MtgdR4B59NyX8VIjw==",
   "success": true,
   "projectFilePath": "C:\\dev\\AngularDotnetProjects\\WorldCities\\api\\api.csproj",
   "expectedPackageFiles": [
@@ -83,6 +83,7 @@
     "C:\\Users\\fagmc\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\fagmc\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\fagmc\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\fagmc\\.nuget\\packages\\system.linq.dynamic.core\\1.2.14\\system.linq.dynamic.core.1.2.14.nupkg.sha512",
     "C:\\Users\\fagmc\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\fagmc\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\fagmc\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
